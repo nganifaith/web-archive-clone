@@ -1,2 +1,2 @@
 # web-archive-clone
-This is a practice project for bootsrap
+This is a practice project for bootstrap
